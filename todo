@@ -1,3 +1,5 @@
-- more data
-- buffer qubit?
-- cnots go both ways
+- check t2 times
+- create google doc
+- split 000 results
+- currently on nairobi q1 has 3x higher readout error than 4,6
+- qubit 4 has order of magnitude shorter t2 time
