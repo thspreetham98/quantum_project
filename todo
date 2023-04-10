@@ -2,4 +2,7 @@
 - create google doc
 - split 000 results
 - currently on nairobi q1 has 3x higher readout error than 4,6
+- look at assignment data
 - qubit 4 has order of magnitude shorter t2 time
+
+- fixed delay on attacker circuit so that all circuits have same duration?
