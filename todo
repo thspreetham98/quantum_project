@@ -1,8 +1,10 @@
 - check t2 times
-- create google doc
-- split 000 results
 - currently on nairobi q1 has 3x higher readout error than 4,6
-- look at assignment data
-- qubit 4 has order of magnitude shorter t2 time
-
 - fixed delay on attacker circuit so that all circuits have same duration?
+- set results folder based on experiment.
+
+- time duration
+- fit data using ...
+
+- apply pulses to make it more sensitive to cnot
+- reverse 1-way cnot and see if we can determine the direction of CNOT
